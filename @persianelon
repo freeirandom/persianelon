@@ -110,7 +110,7 @@
      },
      {
        "type": "hysteria2",
-       "tag": "@KevinZakarian-iVPN.Pro",
+       "tag": "@persianelon",
        "server_port": 443,
        "obfs": {
          "type": "salamander",
