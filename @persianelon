@@ -81,7 +81,7 @@
        "outbounds": [
          "auto",
          "direct",
-         "@KevinZakarian-iVPN.Pro"
+         "@persianelon"
        ],
        "tag": "proxy",
        "type": "selector"
@@ -89,7 +89,7 @@
      {
        "interval": "10m",
        "outbounds": [
-         "@KevinZakarian-iVPN.Pro"
+         "@persianelon"
        ],
        "tag": "auto",
        "tolerance": 50,
